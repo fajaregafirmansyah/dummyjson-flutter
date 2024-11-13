@@ -2,7 +2,7 @@
 
 DummyJSON: Cara Gampang Bikin Mock Data di Flutter Supaya Bisa Coding Tanpa Nungguin Tim Backend
 
-Link artikel : [[https://medium.com/@fajarega0/dummyjson-cara-gampang-bikin-mock-data-di-flutter-supaya-bisa-coding-tanpa-nungguin-tim-backend-65cbe074df4c](https://medium.com/@fajarega0/dummyjson-cara-gampang-bikin-mock-data-di-flutter-supaya-bisa-coding-tanpa-nungguin-tim-backend-65cbe074df4c)](https://medium.com/@fajaregafirmansyah/dummyjson-cara-gampang-bikin-mock-data-di-flutter-supaya-bisa-coding-tanpa-nungguin-tim-backend-65cbe074df4c)
+Link Medium : [Klik Disini](https://medium.com/@fajaregafirmansyah/dummyjson-cara-gampang-bikin-mock-data-di-flutter-supaya-bisa-coding-tanpa-nungguin-tim-backend-65cbe074df4c)
 
 ## Getting Started
 
