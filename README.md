@@ -1,16 +1,13 @@
 # dummyjson
 
-A new Flutter project.
+DummyJSON: Cara Gampang Bikin Mock Data di Flutter Supaya Bisa Coding Tanpa Nungguin Tim Backend
+
+Link artikel : [https://medium.com/@fajarega0/dummyjson-cara-gampang-bikin-mock-data-di-flutter-supaya-bisa-coding-tanpa-nungguin-tim-backend-65cbe074df4c](https://medium.com/@fajarega0/dummyjson-cara-gampang-bikin-mock-data-di-flutter-supaya-bisa-coding-tanpa-nungguin-tim-backend-65cbe074df4c)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+| loading | list |
+|---------|------|
+| ![Screenshot_1731534666](https://github.com/user-attachments/assets/71e56672-6aff-4268-9bdd-d1d4b74c2e40) | ![Screenshot_1731534663](https://github.com/user-attachments/assets/6e128d74-b8f3-492f-a7a3-a6238e329e4e) |
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
